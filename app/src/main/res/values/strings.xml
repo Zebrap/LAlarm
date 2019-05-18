@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LAlarm</string>
+    <string name="title_activity_clock">ClockActivity</string>
+    <string name="vibr">Wibracje</string>
+    <string name="title_activity_alarm">AlarmActivity</string>
+    <string name="stop">Wyłącz</string>
+    <string name="nap">Drzemka</string>
+    <string name="title_activity_stats">StatsActivity</string>
+    <string name="dane">Statystyki</string>
+    <string name="id">ID:</string>
+    <string name="delete">Usuń</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="rate">Oceń budzik</string>
+</resources>
